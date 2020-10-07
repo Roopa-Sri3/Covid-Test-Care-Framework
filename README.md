@@ -1,1 +1,1 @@
-# Hostel-Management-System
+# Covid test care framework
